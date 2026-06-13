@@ -643,3 +643,20 @@ print(f"My name is {name}. I live in {city}. It has been {months} months")
 #
 # Modern Python prefers f-strings because they are
 # shorter, faster, and easier to read.
+
+
+
+array = ["Rinkesh", "Karan","Arjun", "Ajay", "Vijay"]
+
+
+print("".join(array))
+
+print(" ".join(array))
+
+
+print(", ".join(array))
+
+
+print("|".join(array))
+
+
